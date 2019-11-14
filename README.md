@@ -1,5 +1,5 @@
 # sqlite3-sha1-extended
-Extension of sha1 function for SQLite3
+Extension of sha1 function for SQLite3 to add raw mode.
 
 ## Installation
 
